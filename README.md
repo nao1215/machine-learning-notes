@@ -22,6 +22,15 @@ machine-learning-notes
 └── uv.lock
 ```
 
+## コンテンツ
+
+| No. | 分類 | 項目名 |
+| --- | --- | --- |
+| 1 | Notebooks | [作成中（クレカ不正）](datasets/credit-card-fraud/kaggle/README.md) |
+| 2 | Mathematics | [PCA - Principal Component Analysis](notes/math/pca.md) |
+| 3 | Machine Learning | [作成中](notes/ml/) |
+| 4 | ML Ops | [作成中](notes/mlops/) |
+
 ## 実行環境の構築
 ### 前提条件
 
