@@ -10,11 +10,11 @@ machine-learning-notes
 ├── README.md
 ├── datasets  ※ 分析対象データセット（ライセンスは、データ公開元のライセンスに準じる）
 ├── main.py
-├── mlops     ※ ML Opsに関する知見の格納場所
 ├── notebooks ※ datasets を分析するための Jupyter Notebooks
 ├── notes     ※ 機械学習を学ぶ上で必要な基礎知識の格納場所
 │   ├── math
-│   └── ml
+│   ├── ml
+│   └── mlops
 ├── pyproject.toml
 ├── scripts
 │   ├── datasets
