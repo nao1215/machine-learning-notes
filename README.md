@@ -27,8 +27,8 @@ machine-learning-notes
 | No. | 分類 | 項目名 |
 | --- | --- | --- |
 | 1 | Notebooks | [作成中（クレカ不正）](datasets/credit-card-fraud/kaggle/README.md) |
-| 2 | Mathematics | [PCA - Principal Component Analysis](notes/math/pca/pca.md) |
-| 3 | Machine Learning | [作成中](notes/ml/) |
+| 2 | Mathematics | [作成中](notes/math/)  |
+| 3 | Machine Learning | [PCA - Principal Component Analysis](notes/ml/pca/pca.md) |
 | 4 | ML Ops | [作成中](notes/mlops/) |
 
 ## 実行環境の構築
