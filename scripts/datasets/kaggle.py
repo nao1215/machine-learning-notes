@@ -13,8 +13,7 @@ class KaggleDataset(DatasetDownloader):
     def download(self, root_dir: Path) -> None:
         if shutil.which("kaggle") is None:
             raise RuntimeError(
-                "kaggle CLI not found.\n"
-                "Run `uv sync` and ensure kaggle is installed."
+                "kaggle CLI not found.\nRun `uv sync` and ensure kaggle is installed."
             )
 
         out = root_dir / self.output_dir
