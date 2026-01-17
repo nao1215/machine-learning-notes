@@ -29,7 +29,8 @@ machine-learning-notes
 | 1 | Notebooks | [作成中（クレカ不正）](datasets/credit-card-fraud/kaggle/README.md) |
 | 2 | Mathematics | [作成中](notes/math/)  |
 | 3 | Machine Learning | [PCA - Principal Component Analysis](notes/ml/pca/pca.md) |
-| 4 | ML Ops | [作成中](notes/mlops/) |
+| 4 | Machine Learning | [k-means - K-means／k平均法](notes/ml/k-means/k-means.md) |
+| 5 | ML Ops | [作成中](notes/mlops/) |
 
 ## 実行環境の構築
 ### 前提条件
