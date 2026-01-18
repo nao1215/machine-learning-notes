@@ -26,7 +26,7 @@ machine-learning-notes
 
 | No. | 分類 | 項目名 |
 | --- | --- | --- |
-| 1 | Notebooks | [クレカ不正検出（WIP）](./notebooks/credit-card-fraud/credit-card-fraud.ipynb) |
+| 1 | Notebooks | [クレカ不正検出](./notebooks/credit-card-fraud/credit-card-fraud.ipynb) |
 | 2 | Mathematics | [四分位点（quartile）](notes/math/quantile/quantile.md) |
 | 3 | Mathematics | [平均（算術平均）](notes/math/mean/mean.md) |
 | 4 | Mathematics | [中央値（メジアン）](notes/math/median/median.md) |
