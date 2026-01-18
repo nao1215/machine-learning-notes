@@ -26,8 +26,8 @@ machine-learning-notes
 
 | No. | 分類 | 項目名 |
 | --- | --- | --- |
-| 1 | Notebooks | [作成中（クレカ不正）](datasets/credit-card-fraud/kaggle/README.md) |
-| 2 | Mathematics | [作成中](notes/math/)  |
+| 1 | Notebooks | [クレカ不正検出（WIP）](./notebooks/credit-card-fraud/credit-card-fraud.ipynb) |
+| 2 | Mathematics | [四分位点（quartile）](notes/math/quantile/quantile.md) |
 | 3 | Machine Learning | [PCA - Principal Component Analysis](notes/ml/pca/pca.md) |
 | 4 | Machine Learning | [k-means - K-means／k平均法](notes/ml/k-means/k-means.md) |
 | 5 | ML Ops | [作成中](notes/mlops/) |
