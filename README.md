@@ -33,10 +33,11 @@ machine-learning-notes
 | 5 | Mathematics | [分散（バリアンス）](notes/math/variance/variance.md) |
 | 6 | Mathematics | [標準偏差](notes/math/stddev/stddev.md) |
 | 7 | Mathematics | [歪度（skewness）と log1p 変換](notes/math/skewness/skewness.md) |
-| 8 | Mathematics | [相関係数](notes/math/correlation/correlation.md) |
-| 9 | Machine Learning | [PCA - Principal Component Analysis](notes/ml/pca/pca.md) |
-| 10 | Machine Learning | [k-means - K-means／k平均法](notes/ml/k-means/k-means.md) |
-| 11 | ML Ops | [作成中](notes/mlops/) |
+| 8 | Mathematics | [カーネル密度推定（KDE）](notes/math/kde/kde.md) |
+| 9 | Mathematics | [相関係数](notes/math/correlation/correlation.md) |
+| 10 | Machine Learning | [PCA - Principal Component Analysis](notes/ml/pca/pca.md) |
+| 11 | Machine Learning | [k-means - K-means／k平均法](notes/ml/k-means/k-means.md) |
+| 12 | ML Ops | [作成中](notes/mlops/) |
 
 ## 実行環境の構築
 ### 前提条件
