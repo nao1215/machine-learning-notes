@@ -30,9 +30,11 @@ machine-learning-notes
 | 2 | Mathematics | [四分位点（quartile）](notes/math/quantile/quantile.md) |
 | 3 | Mathematics | [平均（算術平均）](notes/math/mean/mean.md) |
 | 4 | Mathematics | [中央値（メジアン）](notes/math/median/median.md) |
-| 5 | Machine Learning | [PCA - Principal Component Analysis](notes/ml/pca/pca.md) |
-| 6 | Machine Learning | [k-means - K-means／k平均法](notes/ml/k-means/k-means.md) |
-| 7 | ML Ops | [作成中](notes/mlops/) |
+| 5 | Mathematics | [分散（バリアンス）](notes/math/variance/variance.md) |
+| 6 | Mathematics | [標準偏差](notes/math/stddev/stddev.md) |
+| 7 | Machine Learning | [PCA - Principal Component Analysis](notes/ml/pca/pca.md) |
+| 8 | Machine Learning | [k-means - K-means／k平均法](notes/ml/k-means/k-means.md) |
+| 9 | ML Ops | [作成中](notes/mlops/) |
 
 ## 実行環境の構築
 ### 前提条件
