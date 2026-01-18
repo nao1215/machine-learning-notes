@@ -36,9 +36,10 @@ machine-learning-notes
 | 8 | Mathematics | [カーネル密度推定（KDE）](notes/math/kde/kde.md) |
 | 9 | Mathematics | [相関係数](notes/math/correlation/correlation.md) |
 | 10 | Machine Learning | [ROC-AUC / PR-AUC](notes/ml/roc-pr-auc/roc-pr-auc.md) |
-| 11 | Machine Learning | [PCA - Principal Component Analysis](notes/ml/pca/pca.md) |
-| 12 | Machine Learning | [k-means - K-means／k平均法](notes/ml/k-means/k-means.md) |
-| 13 | ML Ops | [作成中](notes/mlops/) |
+| 11 | Machine Learning | [混同行列・偽陽性/偽陰性・閾値調整](notes/ml/confusion-matrix/confusion-matrix.md) |
+| 12 | Machine Learning | [PCA - Principal Component Analysis](notes/ml/pca/pca.md) |
+| 13 | Machine Learning | [k-means - K-means／k平均法](notes/ml/k-means/k-means.md) |
+| 14 | ML Ops | [作成中](notes/mlops/) |
 
 ## 実行環境の構築
 ### 前提条件
