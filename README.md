@@ -28,9 +28,10 @@ machine-learning-notes
 | --- | --- | --- |
 | 1 | Notebooks | [クレカ不正検出（WIP）](./notebooks/credit-card-fraud/credit-card-fraud.ipynb) |
 | 2 | Mathematics | [四分位点（quartile）](notes/math/quantile/quantile.md) |
-| 3 | Machine Learning | [PCA - Principal Component Analysis](notes/ml/pca/pca.md) |
-| 4 | Machine Learning | [k-means - K-means／k平均法](notes/ml/k-means/k-means.md) |
-| 5 | ML Ops | [作成中](notes/mlops/) |
+| 3 | Mathematics | [平均（算術平均）](notes/math/mean/mean.md) |
+| 4 | Machine Learning | [PCA - Principal Component Analysis](notes/ml/pca/pca.md) |
+| 5 | Machine Learning | [k-means - K-means／k平均法](notes/ml/k-means/k-means.md) |
+| 6 | ML Ops | [作成中](notes/mlops/) |
 
 ## 実行環境の構築
 ### 前提条件
