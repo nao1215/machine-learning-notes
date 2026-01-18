@@ -32,9 +32,10 @@ machine-learning-notes
 | 4 | Mathematics | [中央値（メジアン）](notes/math/median/median.md) |
 | 5 | Mathematics | [分散（バリアンス）](notes/math/variance/variance.md) |
 | 6 | Mathematics | [標準偏差](notes/math/stddev/stddev.md) |
-| 7 | Machine Learning | [PCA - Principal Component Analysis](notes/ml/pca/pca.md) |
-| 8 | Machine Learning | [k-means - K-means／k平均法](notes/ml/k-means/k-means.md) |
-| 9 | ML Ops | [作成中](notes/mlops/) |
+| 7 | Mathematics | [相関係数](notes/math/correlation/correlation.md) |
+| 8 | Machine Learning | [PCA - Principal Component Analysis](notes/ml/pca/pca.md) |
+| 9 | Machine Learning | [k-means - K-means／k平均法](notes/ml/k-means/k-means.md) |
+| 10 | ML Ops | [作成中](notes/mlops/) |
 
 ## 実行環境の構築
 ### 前提条件
