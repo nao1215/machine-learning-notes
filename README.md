@@ -40,7 +40,9 @@ machine-learning-notes
 | 12 | Machine Learning | [PCA - Principal Component Analysis](notes/ml/pca/pca.md) |
 | 13 | Machine Learning | [k-means - K-means／k平均法](notes/ml/k-means/k-means.md) |
 | 14 | Machine Learning | [RandomForest - ランダムフォレスト](notes/ml/random-forest/random-forest.md) |
-| 15 | ML Ops | [作成中](notes/mlops/) |
+| 15 | Machine Learning | [GradientBoosting - 勾配ブースティング](notes/ml/gradient-boosting/gradient-boosting.md) |
+| 16 | Machine Learning | [LogisticRegression - ロジスティック回帰](notes/ml/logistic-regression/logistic-regression.md) |
+| 17 | ML Ops | [作成中](notes/mlops/) |
 
 ## 実行環境の構築
 ### 前提条件
