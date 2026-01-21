@@ -39,7 +39,8 @@ machine-learning-notes
 | 11 | Machine Learning | [混同行列・偽陽性/偽陰性・閾値調整](notes/ml/confusion-matrix/confusion-matrix.md) |
 | 12 | Machine Learning | [PCA - Principal Component Analysis](notes/ml/pca/pca.md) |
 | 13 | Machine Learning | [k-means - K-means／k平均法](notes/ml/k-means/k-means.md) |
-| 14 | ML Ops | [作成中](notes/mlops/) |
+| 14 | Machine Learning | [RandomForest - ランダムフォレスト](notes/ml/random-forest/random-forest.md) |
+| 15 | ML Ops | [作成中](notes/mlops/) |
 
 ## 実行環境の構築
 ### 前提条件
