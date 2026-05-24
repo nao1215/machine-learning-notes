@@ -1,3 +1,7 @@
+>[!WARNING]
+> https://github.com/nao1215/debimate のコンテンツにしたため、アーカイブしました。
+
+
 # Machine Learning Notes
 
 機械学習初心者（私）が、機械学習の初歩を学ぶためのリポジトリです。記載内容の誤り（認識違い）の指摘は大歓迎です。
